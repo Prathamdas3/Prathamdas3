@@ -1,6 +1,7 @@
-### Hi there 👋, Pratham Das
-#### Developer and Designer
 ![Developer and Designer](https://github.com/Prathamdas3/Prathamdas3/blob/main/Olivia%20Wilson.png)
+
+### Hi there 👋, I am Pratham Das
+#### Developer and Designer
 
 My name is Pratham from India, and I am interested in Design and Development. I enjoy learning languages such as Python, JavaScript, and WordPress. I enjoy web-design, UI-design, front-end development, as well as all aspects of design.
 
