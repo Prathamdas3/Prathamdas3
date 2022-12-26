@@ -1,4 +1,4 @@
-### Hi there 👋, I am Pratham
+### Hi there 👋, Pratham Das
 #### Developer and Designer
 ![Developer and Designer](https://media.licdn.com/dms/image/D5616AQG_gmXJmHQJAg/profile-displaybackgroundimage-shrink_350_1400/0/1672067378130?e=1677715200&v=beta&t=KU-JZVcN1_TYsORg--s9X4Cw0YaOLnpU8hZ-T3B4IyM)
 
