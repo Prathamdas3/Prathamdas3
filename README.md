@@ -25,6 +25,7 @@ My name is Pratham from India, and I am interested in Design and Development. I 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamdas3&show_icons=true)  
 
+<a href="http://www.github.com/Pratham3"><img src="https://activity-graph.herokuapp.com/graph?username=Arindam200&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
