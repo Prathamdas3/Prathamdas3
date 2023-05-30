@@ -21,10 +21,6 @@ My name is Pratham from India, and I am interested in Design and Development. I 
 *  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pratham28003/)
 *  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Prathamdas28/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamdas3)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamdas3&show_icons=true)  
-
 <details>
 
 <summary><h2>My GitHub Stats</h2></summary>
