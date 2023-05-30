@@ -8,7 +8,7 @@ My name is Pratham from India, and I am interested in Design and Development. I 
 - 😄 Pronouns: He/Him 
 - 📫 How to reach me: 📧 prathamdasw28@gmail.com 
 
-## Skills and Experience: [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]()  [![HTML](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)]() ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+## Skills and Experience: [![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]()  [![HTML](https://img.shields.io/badge/HTML-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)]() ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 <div style="display:flex">
 
 
