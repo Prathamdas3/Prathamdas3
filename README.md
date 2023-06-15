@@ -19,7 +19,7 @@ My name is Pratham from India, and I am interested in Design and Development. I 
 
 
 
-
+<!-- 
 <div align = "center">
 
 <h2>My GitHub Stats<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
@@ -43,7 +43,7 @@ My name is Pratham from India, and I am interested in Design and Development. I 
 </tr>
 
 
-
+ -->
 
 
 
