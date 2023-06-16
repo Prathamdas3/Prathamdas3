@@ -1,54 +1,34 @@
 ![Developer and Designer](https://github.com/Prathamdas3/Prathamdas3/blob/main/Olivia%20Wilson.png)
 
-#  Pratham Das
+<h1 align="center">Hi 👋, I'm Pratham Das</h1>
 
-My name is Pratham from India, and I am interested in Design and Development. I enjoy learning languages such as Python, JavaScript, and WordPress. I enjoy web-design, UI-design, front-end development, as well as all aspects of design.
+<h4 align="center">I am Pratham from India, and interested in Design and Development. I enjoy learning languages such as Python, JavaScript,C++,C and WordPress. I also enjoy web-design, UI-design, as well as all aspects of design. But I enjoy the most developing new things like websites or Appications</h4>
 
-- 🌱 I’m currently learning Python 
+
 - 😄 Pronouns: He/Him 
-- 📫 How to reach me: 📧 prathamdasw28@gmail.com 
 
-## Skills and Experience: [![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]()  [![HTML](https://img.shields.io/badge/HTML-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)]() ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-<div style="display:flex">
+- 🌱 I’m currently learning **react** 
 
+- 📫 How to reach me **prathamdasw28@gmail.com** 
 
-
-# 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pratham28003?igshid=YmMyMTA2M2Y=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamdas28/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Prathamdas28)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
 
 
-<!-- 
-<div align = "center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/prathamdas28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathamdas28" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/prathamdas28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prathamdas28" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/pratham28003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pratham28003/" height="30" width="40" /></a>
+</p>
 
-<h2>My GitHub Stats<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamdas3&label=Profile%20views&color=0e75b6&style=flat" alt="prathamdas3" /> </p>
 
-</div>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdas3&show_icons=true&locale=en&layout=compact" alt="prathamdas3" /></p> -->
 
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamdas3&show_icons=true&locale=en" alt="prathamdas3" /></p> -->
 
-<div align="center">
-<table>
-<tr>
-<td width="45%">
-<a href="(https://github.com/Prathamdas3)"><img src="https://github-readme-stats.vercel.app/api?username=Prathamdas3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt='Prathamdas3's GitHub stats" /></a> 
-
-</td>
-<td width="45%">
- <a href="(https://github.com/Prathamdas3)"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamdas3&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- 
-</table>
-</div>
-</td>
-</tr>
-
-
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamdas3&" alt="prathamdas3" /></p>
  -->
-
-
-
-
-
-
-
-
