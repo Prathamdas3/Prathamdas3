@@ -4,8 +4,10 @@
 
 <h4 align="center">I am Pratham from India, and interested in Design and Development. I enjoy learning languages such as Python, JavaScript,C++,C and WordPress. I also enjoy web-design, UI-design, as well as all aspects of design. But I enjoy the most developing new things like websites or Appications</h4>
 
+ <img src="https://github.com/Prathamdas3/Prathamdas3/assets/116100433/04bbeb69-e925-4988-af74-33c2c9f1bf06" align="right" width="400px" /> 
+ 
 
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him
 
 - 🌱 I’m currently learning **react** 
 
