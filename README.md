@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pratham Das</h1>
 
-<h4 align="center">I am Pratham from India, and interested in Design and Development. I enjoy learning languages such as Python, JavaScript,C++,C and WordPress. I also enjoy web-design, UI-design, as well as all aspects of design. But I enjoy the most developing new things like websites or Appications</h4>
+<h4 align="center">I am Pratham from India, and interested in Design and Development. I enjoy learning languages such as Python, JavaScript, C++, C, and WordPress. I also enjoy web design, UI design, as well as all aspects of design. But I enjoy the most developing new things like websites or applications </h4>
 
 
  
@@ -41,7 +41,7 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,bash,git,figma,postman" />
 
-### Conect with me
+### Connect with me
 
 <p align="left">
  
@@ -54,6 +54,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamdas3&label=Profile%20views&color=0e75b6&style=flat" alt="prathamdas3" /> </p>
 
 <a href="http://www.github.com/Prathamdas3"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamdas3&theme=merko&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+![Snake animation](https://github.com/Prathamdas3/Prathamdas3/blob/output/github-contribution-grid-snake.svg)
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdas3&show_icons=true&locale=en&layout=compact" alt="prathamdas3" /></p> -->
 
