@@ -1,4 +1,4 @@
-![Developer and Designer](https://github.com/Prathamdas3/Prathamdas3/blob/main/Olivia%20Wilson.png)
+![Developer and Designer](https://github.com/Prathamdas3/Prathamdas3/blob/master/Olivia%20Wilson.png)
 
 <h1 align="center">Hi 👋, I'm Pratham Das</h1>
 
