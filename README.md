@@ -53,7 +53,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamdas3&label=Profile%20views&color=0e75b6&style=flat" alt="prathamdas3" /> </p>
 
-<a href="http://www.github.com/Prathamdas3"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamdas3&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Prathamdas3"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamdas3&theme=merko&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdas3&show_icons=true&locale=en&layout=compact" alt="prathamdas3" /></p> -->
 
