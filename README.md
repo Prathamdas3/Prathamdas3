@@ -1,5 +1,7 @@
 ![Developer and Designer](https://github.com/Prathamdas3/Prathamdas3/blob/master/Olivia%20Wilson.png)
 
+<!--[![An image of @pratham_das's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratham_das)](https://holopin.io/@pratham_das)-->
+
 <h1 align="center">Hi 👋, I'm Pratham Das</h1>
 
 <h4 align="center">I am Pratham from India, and interested in Design and Development. I enjoy learning languages such as Python, JavaScript, C++, C, and WordPress. I also enjoy web design, UI design, as well as all aspects of design. But I enjoy the most developing new things like websites or applications </h4>
