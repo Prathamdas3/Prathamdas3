@@ -10,7 +10,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🌱 I’m currently learning **react** 
+- 🌱 I’m currently learning **Next** and **Typescript** 
 
 - 📫 How to reach me **prathamdasw28@gmail.com** 
 
