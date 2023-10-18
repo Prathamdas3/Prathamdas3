@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Next** and **Typescript** 
 
-- 📫 How to reach me **prathamdasw28@gmail.com** 
+- 📫 How to reach me **prathamdas.work@gmail.com** 
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamdas3&label=Profile%20views&color=0e75b6&style=flat" alt="prathamdas3" /> </p>
 
