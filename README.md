@@ -1,6 +1,6 @@
-![Developer and Designer](https://github.com/Prathamdas3/Prathamdas3/blob/master/Olivia%20Wilson.png)
+<!--![Developer and Designer](https://github.com/Prathamdas3/Prathamdas3/blob/master/Olivia%20Wilson.png)-->
 
-<!--[![An image of @pratham_das's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratham_das)](https://holopin.io/@pratham_das)-->
+[![An image of @pratham_das's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratham_das)](https://holopin.io/@pratham_das)
 
 <h1 align="center">Hi 👋, I'm Pratham Das</h1>
 
