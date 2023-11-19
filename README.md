@@ -20,8 +20,8 @@
 
 <h2 align="center"><samp><i><b>🛠️ Tech Stack </b></i></samp></h2>
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,md,html,css,tailwind,bootstrap,react,next,solidjs,astro,vite,nodejs,express,prisma,firebase,mongodb,sqlite,postman,netlify,vercel,replit,github,git,bash,vscode,linux,figma" align="center"/>
-<!--<img src="https://skillicons.dev/icons?i=c,py,materialui/>-->
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,md,html,css,bootstrap,tailwind,react,solidjs,next,vite,nodejs,express,prisma,firebase,mongodb,sqlite,postman,netlify,vercel,github,git,bash,vscode,linux,figma" align="center"/>
+<!--<img src="https://skillicons.dev/icons?i=c,py,materialui,astro,replit/>-->
 
 
 <h2 align="center"><samp><i><b>connect with me</b></i></samp></h2>
