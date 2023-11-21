@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🌱 I’m currently learning **Next** and **Typescript** 
+- 🌱 I’m currently learning **Frontend Development**
 
 - 📫 How to reach me **prathamdas.work@gmail.com** 
 
@@ -20,7 +20,8 @@
 
 <h2 align="center"><samp><i><b>🛠️ Tech Stack </b></i></samp></h2>
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,md,html,css,bootstrap,tailwind,react,solidjs,next,vite,nodejs,express,prisma,firebase,mongodb,sqlite,postman,netlify,vercel,github,git,bash,vscode,linux,figma" align="center"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,md,html,css,bootstrap,tailwind,react,vite,firebase,nodejs,express,prisma,sqlite,mongodb,netlify,vercel,github,git,bash,postman,vscode,linux,figma" align="center"/>
+<!--<img src="https://skillicons.dev/icons?i=solidjs,vue,next,nuxt,svelte,sveltekit/>-->
 <!--<img src="https://skillicons.dev/icons?i=c,py,materialui,astro,replit/>-->
 
 
