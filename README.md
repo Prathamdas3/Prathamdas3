@@ -20,9 +20,9 @@
 
 <h2 align="center"><samp><i><b>🛠️ Tech Stack </b></i></samp></h2>
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,md,html,css,bootstrap,tailwind,react,vite,firebase,nodejs,express,prisma,sqlite,mongodb,netlify,vercel,github,git,bash,postman,vscode,linux,figma" align="center"/>
-<!--<img src="https://skillicons.dev/icons?i=solidjs,vue,next,nuxt,svelte,sveltekit/>-->
-<!--<img src="https://skillicons.dev/icons?i=c,py,materialui,astro,replit/>-->
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,md,html,css,bootstrap,tailwind,react,redux,next,vite,firebase,nodejs,express,prisma,sqlite,mongodb,netlify,vercel,github,git,bash,postman,vscode,linux,figma" align="center"/>
+<!--<img src="https://skillicons.dev/icons?i=astro,threejs,/>-->
+<!--<img src="https://skillicons.dev/icons?i=c,py,materialui,replit,nuxt,svelte,sveltekit,solidjs,vue,/>-->
 
 
 <h2 align="center"><samp><i><b>connect with me</b></i></samp></h2>
