@@ -35,7 +35,7 @@
 
 
 
-<a href="http://www.github.com/Prathamdas3"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamdas3&theme=merko&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!--<a href="http://www.github.com/Prathamdas3"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamdas3&theme=merko&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
 
 <!--![Snake animation](https://github.com/Prathamdas3/Prathamdas3/blob/output/github-contribution-grid-snake.svg)-->
 
