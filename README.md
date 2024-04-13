@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Pratham Das</h1>
 
-<h4 align="center">I am Pratham from India, and interested in Design and Development. I enjoy learning languages such as Python, JavaScript, C++, C, and WordPress. I also enjoy web design, UI design, as well as all aspects of design. But I enjoy the most developing new things like websites or applications </h4>
+<h4 align="center">I am Pratham from India, and interested in Design and Development. I enjoy learning languages such as Python, JavaScript, and Typescript. I also enjoy web design, UI design, as well as all aspects of design. But I enjoy the most developing new things like websites or applications </h4>
 
 
 
