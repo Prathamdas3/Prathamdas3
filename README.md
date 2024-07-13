@@ -20,7 +20,7 @@
 
 <h2 align="center"><samp><i><b>🛠️ Tech Stack </b></i></samp></h2>
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,md,html,css,bootstrap,tailwind,react,next,vue,nuxt,astro,redux,vite,firebase,bun,nodejs,npm,pnpm,express,fastapi,django,prisma,mongodb,sqlite,netlify,vercel,github,git,bash,postman,docker,vscode,linux,redhat,figma,notion" align="center"/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,md,html,css,bootstrap,tailwind,react,next,vue,nuxt,astro,redux,vite,firebase,bun,nodejs,npm,pnpm,express,fastapi,django,prisma,postgres,mongodb,sqlite,electron,netlify,vercel,github,git,bash,postman,docker,vscode,linux,redhat,figma,notion" align="center"/>
 
 
 
