@@ -47,7 +47,7 @@ I’m currently moving deeper into backend development while keeping a full-stac
 </p>
 
 <p>
-Resume: <a href="YOUR_RESUME_LINK">PDF</a> · Email: prathamdas.work@gmail.com
+Resume: <a href="Resume.pdf">PDF</a> · Email: prathamdas.work@gmail.com
 </p>
 
 ### I work with
