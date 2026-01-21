@@ -39,15 +39,15 @@ h2 align="center"><samp><i><b>🛠️ Tools </b></i></samp></h2>
 <p align="center"><b>Full-Stack Engineer</b></p>
 
 <p>
-I build web applications and internal tools, coming from a frontend-heavy background and increasingly focused on backend systems, APIs, and data-driven services.
+I build web applications and internal tools, with a frontend-heavy background and an increasingly focused focus on backend systems, APIs, and data-driven services.
 </p>
 
 <p>
-I’m currently moving deeper into backend development while keeping a full-stack perspective on system design and product usability.
+I’m currently deepening my work in backend development while maintaining a full-stack perspective on system design and product usability.
 </p>
 
 <p>
-Resume: <a href="Resume.pdf">PDF</a> · Email: prathamdas.work@gmail.com
+Resume: <a href="Resume.pdf" download="Resume.pdf">PDF</a> · Email: prathamdas.work@gmail.com
 </p>
 
 ### I work with
