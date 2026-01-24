@@ -52,7 +52,7 @@ Resume: <a href="Resume.pdf" download="Resume.pdf">PDF</a> · Email: prathamdas.
 
 ### I work with
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,go,react,next,express,fastapi,postgres,sqlite,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,react,alpinejs,next,astro,express,fastapi,postgres,sqlite,docker" />
 </p>
 
 
