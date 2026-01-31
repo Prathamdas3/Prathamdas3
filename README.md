@@ -57,7 +57,7 @@ Resume: <a href="Resume.pdf" download="Resume.pdf">PDF</a> · Email: prathamdas.
 
 ### Currently learning
 <p>
-  <img src="https://skillicons.dev/icons?i=go,alpinejs" />
+  <img src="https://skillicons.dev/icons?i=go" />
 </p>
 
 
